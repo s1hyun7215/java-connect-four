@@ -285,11 +285,14 @@ private void triggerAITurnIfNeeded() {
 ### 1. 게임 시작
 >게임 시작 시 **AI 난이도**(쉬움/보통/어려움)와 **선공**(사람/AI)을 선택할 수 있으며, 게임 종료 후 **"새 게임"** 버튼으로 처음부터 다시 시작할 수 있습니다.
 
-<td><img src="./images/screen-start.webp" 
-         width="470" 
-         height="auto"
-         style="width:470px;max-width:470px;" 
-         alt="게임 시작"/></td>
+<table>
+  <tr>
+    <td align="center"><b>난이도 / 선공 선택 / 게임 진행 / 새 게임</b></td>
+  </tr>
+  <tr>
+    <td><img src="./docs/screen-start.webp" width="470" alt="게임 시작"/></td>
+  </tr>
+</table>
 
 <br>
 
